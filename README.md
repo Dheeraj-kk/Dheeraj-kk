@@ -19,13 +19,16 @@ Node.js, Express.js
 REST APIs
 
 🗄 Database
+
 MongoDB, MySQL
 
 🧰 Tools
+
 Git, GitHub, Postman
 
 
 🚀 Featured Projects
+
 🤖 AI Chatbot (Real-time Chat)
 
 Built using OpenAI API (ChatGPT model)
@@ -44,6 +47,7 @@ Clean modern UI
 📫 Connect With Me
 
 📧 Email: dheerajbasotra24@gmail.com
+
 💡 About Me
 
 I am a passionate MERN stack developer focused on building scalable and user-friendly applications.
