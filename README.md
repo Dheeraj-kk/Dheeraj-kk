@@ -51,7 +51,7 @@ Clean modern UI
 💡 About Me
 
 I am a passionate MERN stack developer focused on building scalable and user-friendly applications.
-Currently preparing for developer roles and improving problem-solving skills.## Hi there 👋
+Currently preparing for developer roles and improving problem-solving skills.
 
 <!--
 **Dheeraj-kk/Dheeraj-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
