@@ -2,7 +2,7 @@ Hi, I'm Dheeraj 👋
 
 💻 MERN Stack Developer
 🚀 Passionate about building real-world web applications
-🌱 Currently improving: Advanced React & System Design
+🌱 Currently improving: Advanced concepts & System Design
 📍 Jammu & Kashmir, India
 
 🛠 Tech Stack
